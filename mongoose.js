@@ -40,5 +40,3 @@
 
 // var Story = mongoose.model('Story', storySchema);
 // var Author = mongoose.model('Author', authorSchema);
-
-// // node populatedb "mongodb+srv://aonye:Lolllol1@cluster0.hkanh.mongodb.net/local_library?retryWrites=true&w=majority"
